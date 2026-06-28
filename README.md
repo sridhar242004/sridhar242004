@@ -1,383 +1,224 @@
+<!-- ═══════════════════════════════════════════════════════════════
+     PROFILE README — sridhar242004 (SRIDHAR S)
+     Repo:  github.com/sridhar242004/sridhar242004
+     ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0D0D1A,70:1A0A2E,100:0A0A1E&height=220&section=header&text=SRIDHAR%20S&fontSize=72&fontColor=E8C040&fontAlignY=40&desc=AI%20Engineer%20·%20Creative%20Technologist%20·%20Frontend%20Architect&descColor=00D4F5&descSize=17&descAlignY=64&animation=fadeIn" width="100%"/>
+<!-- ░░░ HEADER BANNER ░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,30:0a0a2e,65:1a0a3e,100:6c63ff&height=220&section=header&text=SRIDHAR%20S&fontSize=78&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20WebGL%20Craftsman%20%E2%80%A2%20Creative%20Technologist&descSize=16&descColor=a78bfa&descAlign=50&descAlignY=62&animation=fadeIn" />
+
+<!-- ░░░ TYPING ANIMATION ░░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&repeat=true&width=680&lines=🚀+Building+AI-First+Cinematic+Web+Experiences;⚡+Three.js+·+GSAP+·+Groq+LPU+·+Tailwind+CSS;📡+113+Repositories+Shipped+%26+Counting;🏆+IEEE+Author+·+AWS+Certified+·+IET+Member;💡+Zero-Backend+·+Full+Client-Side+ML+·+WebGL" alt="Typing SVG" />
 
 <br/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=E8C040&center=true&vCenter=true&width=700&lines=Building+AI+platforms+at+the+frontier+of+possibility;Dual-engine+video+synthesis+on+L4+%2F+A100+GPUs;Neural+mathematics+·+Cinematic+frontend+architecture;113+repositories+across+the+spectrum+of+intelligence;Where+technical+depth+meets+aesthetic+mastery" alt="Typing SVG" />
+<!-- ░░░ SOCIAL / CONTACT BADGES ░░░ -->
+<a href="https://www.linkedin.com/in/sridhar-s-242004">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=SRIDHAR+S" />
+</a>
+&nbsp;
+<a href="https://quantuminteractivecharts.netlify.app">
+  <img src="https://img.shields.io/badge/QuantumViz_AI-LIVE_DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:sridhar242004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=sridhar242004&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+---
+
+## `$ whoami`
+
+```json
+{
+  "name"              : "Sridhar S",
+  "role"              : "Software Engineer @ TCS",
+  "degree"            : "B.E. Computer Science — Class of 2025",
+  "location"          : "Tamil Nadu, India 🇮🇳",
+  "public_repos"      : 113,
+  "focus"             : "AI-integrated, cinematic web experiences",
+  "currently_building": "Bento Grid Playbook 2026 • FAANG-grade Resume Tooling",
+  "core_stack"        : ["Three.js r128", "GSAP 3.12", "Groq LPU", "Tailwind CSS",
+                         "D3.js", "Plotly.js", "Python", "Java"],
+  "credentials"       : ["IEEE Author", "AWS Certified", "IET Member"],
+  "awards"            : ["National Project Expo Award"],
+  "internships"       : ["Java Development", "Cybersecurity"],
+  "philosophy"        : "Zero backend. Maximum impact. One HTML file."
+}
+```
+
+> *I build products that look like they came out of a FAANG design lab — fully client-side,  
+> wired with Groq LPU for near-instant LLM responses, rendered with WebGL and GSAP scroll choreography.*
+
+---
+
+## `$ ls projects/ --sort=impact`
+
+| 🔮 Project | 💡 What It Does | 🛠️ Core Stack | 🌐 |
+|:----------|:--------------|:-------------|:--:|
+| [**QuantumViz AI**](https://quantuminteractivecharts.netlify.app) | Zero-backend ML intelligence platform — CSV → 15 algorithms → 12 viz types + streaming AI analyst | `Three.js` `Plotly` `D3` `Groq` | [![LIVE](https://img.shields.io/badge/LIVE-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://quantuminteractivecharts.netlify.app) |
+| [**MotionMaster Pro**](https://github.com/sridhar242004/MotionMaster) | Cinematic video production platform — WebGL particle hero, GSAP scroll choreography, editorial motion system | `Three.js` `GSAP` `Tailwind` | [![REPO](https://img.shields.io/badge/REPO-6c63ff?style=flat-square&logo=github&logoColor=white)](https://github.com/sridhar242004/MotionMaster) |
+| [**MATAI**](https://github.com/sridhar242004/MATAI) | AI-powered mathematics assistant — interactive problem solving with LLM reasoning engine | `Groq` `MathJS` `GSAP` | [![REPO](https://img.shields.io/badge/REPO-6c63ff?style=flat-square&logo=github&logoColor=white)](https://github.com/sridhar242004/MATAI) |
+| [**Question Qenius**](https://github.com/sridhar242004/question-qenius) | AI quiz generation engine — generates, grades, and explains adaptive quizzes in real time | `Groq` `HTML/CSS/JS` | [![REPO](https://img.shields.io/badge/REPO-6c63ff?style=flat-square&logo=github&logoColor=white)](https://github.com/sridhar242004/question-qenius) |
+| [**AIdrawtoimage.AI**](https://github.com/sridhar242004/AIdrawtoimage.AI) | Sketch-to-image AI pipeline — converts freehand drawings to polished AI-generated art | `Python` `AI` `Stable Diffusion` | [![REPO](https://img.shields.io/badge/REPO-6c63ff?style=flat-square&logo=github&logoColor=white)](https://github.com/sridhar242004/AIdrawtoimage.AI) |
+| **LinguaFlow** | Real-time AI translation platform with interactive 3D language globe and CSS cascade layer system | `Three.js` `Groq` `CSS @layer` | [![REPO](https://img.shields.io/badge/REPO-6c63ff?style=flat-square&logo=github&logoColor=white)](https://github.com/sridhar242004) |
+| **Nexus Narrative** | AI storytelling engine — 6 genre realms, branching plots, SpeechSynthesis narration, voice commands | `Groq` `WebSpeech` `WebAudio` | [![REPO](https://img.shields.io/badge/REPO-6c63ff?style=flat-square&logo=github&logoColor=white)](https://github.com/sridhar242004) |
+| **EcoTrack** | Carbon footprint tracker — wireframe 3D Earth, AI sustainability tips, full localStorage persistence | `Three.js` `Groq` `Chart.js` | [![REPO](https://img.shields.io/badge/REPO-6c63ff?style=flat-square&logo=github&logoColor=white)](https://github.com/sridhar242004) |
+
+<details>
+<summary><strong>↓ More Projects</strong></summary>
+
+| 🔮 Project | 💡 What It Does | 🛠️ Stack |
+|:----------|:--------------|:---------|
+| **NEO.BRUTAL+** | Award-target editorial systems studio — WebGL hero, GSAP scroll, draggable sliders, AI Bento Architect | `Three.js` `GSAP` `Claude API` |
+| **ResumeForge AI** | Multi-step resume builder — live preview, ATS analyzer, Chart.js skills radar, PDF export | `Groq` `Chart.js` `jsPDF` |
+| **FashionAI** | AI wardrobe OS — outfit generator, closet drag-and-drop, style analytics | `Groq` `Tailwind` `DnD API` |
+| **ZenMode** | Digital detox assistant — breathing exercises, Chart.js analytics, gamified wellbeing challenges | `Chart.js` `Groq` `GSAP` |
+| **NeoBrut VR Art Gallery** | Spline 3D hero + virtual Three.js gallery, AI curator "ARIA" powered by Groq | `Spline` `Three.js` `Groq` |
+| **DashGen** | AI data visualization platform — CSV upload, ECharts, Groq analysis engine | `ECharts` `Groq` `Tailwind` |
+
+</details>
+
+---
+
+## `$ cat /etc/tech-stack`
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&theme=dark" />
+</p>
+
+**Rendering & Animation**
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" />
+  &nbsp;<img src="https://img.shields.io/badge/GSAP_3.12-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  &nbsp;<img src="https://img.shields.io/badge/D3.js_v7-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
+  &nbsp;<img src="https://img.shields.io/badge/Plotly.js-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  &nbsp;<img src="https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge&logo=apache&logoColor=white" />
+</p>
+
+**Frameworks & UI**
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,sass&theme=dark" />
+</p>
+
+**AI & LLM**
+<p>
+  <img src="https://img.shields.io/badge/Groq_LPU-FF6B35?style=for-the-badge&logoColor=white" />
+  &nbsp;<img src="https://img.shields.io/badge/llama--3.3--70b-FF6B35?style=for-the-badge" />
+  &nbsp;<img src="https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
+  &nbsp;<img src="https://img.shields.io/badge/Stable_Diffusion-8A2BE2?style=for-the-badge&logo=stablediffusion&logoColor=white" />
+</p>
+
+**Tools, Cloud & Deployment**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,aws,netlify,vscode,figma,linux&theme=dark" />
+</p>
+
+---
+
+## `$ github-stats --verbose`
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sridhar242004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=c4b5fd&ring_color=7c3aed&hide=contribs" />
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridhar242004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c4b5fd&icon_color=06b6d4" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sridhar242004&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=06B6D4&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280&stroke=6c63ff" />
+
+</div>
+
+---
+
+## `$ trophy-case --display`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sridhar242004&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&title=Stars,Commit,Repositories,PullRequest,Issues,Followers,Experience" />
+
+</div>
+
+---
+
+## `$ git log --oneline --graph --all`
+
+<!-- 
+  ┌─────────────────────────────────────────────────────────────────┐
+  │  SNAKE ANIMATION SETUP (one-time, takes ~2 minutes)            │
+  │  1. Create repo named exactly: sridhar242004                    │
+  │  2. Add this README.md                                          │
+  │  3. Add .github/workflows/snake.yml  (provided below)          │
+  │  4. Go to Actions tab → run "Generate Snake" workflow           │
+  │  5. The SVG auto-updates every 12 hours via cron               │
+  └─────────────────────────────────────────────────────────────────┘
+-->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/sridhar242004/sridhar242004/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/sridhar242004/sridhar242004/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation"
+       src="https://raw.githubusercontent.com/sridhar242004/sridhar242004/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## `$ tail -f activity.log`
+
+<div align="center">
+
+[![Sridhar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sridhar242004&theme=tokyo-night&bg_color=0d1117&color=7c3aed&line=06b6d4&point=7c3aed&area=true&hide_border=true&area_color=1a0a3e&custom_title=Contribution%20Activity)](https://github.com/sridhar242004)
+
+</div>
+
+---
+
+## `$ cat contact.txt`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sridhar-s-242004">
+  <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://quantuminteractivecharts.netlify.app">
+  <img src="https://img.shields.io/badge/Try_It_Live-QuantumViz_AI-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:sridhar242004@gmail.com">
+  <img src="https://img.shields.io/badge/Reach_Out-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br/><br/>
 
-<!-- IDENTITY BADGES -->
-[![Profile Views](https://komarev.com/ghpvc/?username=sridhar242004&color=E8C040&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sridhar242004)
-&nbsp;
-[![Repos](https://img.shields.io/badge/113-PUBLIC%20REPOS-00D4F5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sridhar242004?tab=repositories)
-&nbsp;
-[![Stars](https://img.shields.io/github/stars/sridhar242004?style=for-the-badge&color=E8C040&logo=github)](https://github.com/sridhar242004)
-&nbsp;
-[![Status](https://img.shields.io/badge/🎯-FOCUSING-7c3aed?style=for-the-badge)](#)
+*Open to AI/ML engineering roles, creative tech internships, and ambitious side-projects.*
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  I build things that shouldn't exist yet — then document them        ║
-║  with the precision of someone who has to maintain them at 3am.      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-```yaml
-name:       SRIDHAR S
-alias:      sridhar242004
-location:   Tamil Nadu, India
-employer:   TCS
-mission:    Fuse machine intelligence with aesthetic mastery
-approach:   Production-grade engineering · Award-caliber design · No shortcuts
-```
-
-My work spans **generative video synthesis** on 24 GB GPUs, **LLM-powered mathematics research platforms**, **Three.js black holes**, **genomic intelligence dashboards**, and **alchemical algorithm visualizers**. The common thread: every system is engineered with precision and designed with intention. 113 repositories and still accelerating.
-
----
-
-<!-- ═══════════════════════════ WHAT I BUILD ═══════════════════════════ -->
-
-## 🔭 What I Build
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### 🎬 Generative AI
-Production video synthesis pipelines with dual-engine architecture (I2VGenXL + SDXL), sketch-to-image models, multi-modal generation, GPU memory optimization, and storyboard-to-cinema automation. Built for L4 / A100.
-
-</td>
-<td width="33%" valign="top">
-
-### 🧮 Intelligent Platforms
-LLM-powered research tools with structured output contracts, 6-model orchestration via Groq API, LaTeX/MathJax rendering, real-time analytics, and backend proxy security architecture targeting XSS and key exposure prevention.
-
-</td>
-<td width="33%" valign="top">
-
-### 🎨 Cinematic Frontend
-Awwwards-caliber single-file HTML applications with 7-layer animated heroes, Three.js environments, GSAP ScrollTrigger parallax, CSS Houdini `@property` glows, canvas particle systems, and editorial design systems.
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════════ FEATURED PROJECTS ═══════════════════════════ -->
-
-## 🚀 Featured Projects
-
-<details open>
-<summary><strong>🎬 Generative AI Platforms</strong></summary>
-
-<br/>
-
-### [MotionMaster Pro](https://github.com/sridhar242004/MotionMaster) &nbsp; — &nbsp; Dual-Engine AI Video Synthesis
-
-> *Storyboard → Cinema pipeline. Production-grade. GPU-Optimized. Gradio 4.x. L4 / A100 ready.*
-
-Three AI models, two parallel synthesis pipelines, an OpenCV effect engine, a Pydub audio stack, and a complete MP4 assembly chain — all orchestrated through a single Gradio session.
-
-| Metric | Value |
-|--------|-------|
-| **AI Models** | I2VGenXL (3.4B · ali-vilab) · SDXL Base 1.0 (3.5B · Stability AI) · GIT-Base-COCO (182M · Microsoft) |
-| **Pipeline A** | Image → Animated Video (I2VGenXL) · Auto-captioning · Batch mode · GIF/MP4 export |
-| **Pipeline B** | Storyboard `.txt` → 60s Cinematic MP4 (SDXL) · 5 scenes · 12 frames/scene · 768×768 FP16 |
-| **Audio Stack** | gTTS voiceover (per-scene, 12s, fade-in/out) · BenSound mood-matched music · Pydub composite mix |
-| **Post-FX** | Vintage (sepia kernel + film grain) · Dream (Gaussian glow + HSV sat.) · Cinematic (letterbox + color grade) |
-| **GPU Strategy** | FP16 · CPU Offload · Attention Slicing · LRU Cache · Post-inference GC · ~17 GB peak (L4 24 GB) |
-
-```
-STARTUP → preload_model()   →  SDXL test generation @ 768×768
-PARSE   → storyboard.txt    →  5 scenes (--- delimited) + narration
-AUDIO   → gTTS × 5 scenes   →  Pydub concat → normalize → +5dB → 192k MP3
-GEN     → SDXL loop × 60   →  12 frames/scene → Sharpness ×1.5, Contrast ×1.2
-ASSEMBLE→ MoviePy concat    →  CompositeAudioClip → ffmpeg libx264+AAC → final.mp4
-```
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Diffusers-FFD21E?style=flat-square)
-![Gradio](https://img.shields.io/badge/Gradio%204.x-FF7C00?style=flat-square)
-![CUDA](https://img.shields.io/badge/CUDA%2011.8-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MoviePy](https://img.shields.io/badge/MoviePy-000000?style=flat-square)
-
----
-
-### [AIdrawtoimage.AI](https://github.com/sridhar242004/AIdrawtoimage.AI) &nbsp; ⭐ &nbsp; — &nbsp; Sketch-to-Image Generation
-
-Transform hand-drawn sketches into photorealistic outputs via diffusion models. The starred project in the portfolio.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=flat-square)
-![Stars](https://img.shields.io/github/stars/sridhar242004/AIdrawtoimage.AI?style=flat-square&color=E8C040)
-
-</details>
-
----
-
-<details open>
-<summary><strong>🧮 LLM-Powered Research Platforms</strong></summary>
-
-<br/>
-
-### [MATAI — Neural Conjecture Proposer](https://github.com/sridhar242004/MATAI) &nbsp; — &nbsp; Mathematics × LLM
-
-> *"Where large language models meet the frontier of human mathematical thought"*
-
-A cinematic, production-grade single-page application that harnesses Groq-hosted LLMs to generate **novel, mathematically rigorous conjectures** across 8 domains of pure mathematics. Every conjecture is rendered in LaTeX via MathJax 3, persisted to localStorage, and made available for search, filter, export, and analytics — all through a **7-layer animated hero with a 55-particle canvas field and CSS Houdini glow animations**.
-
-| Dimension | Detail |
-|-----------|--------|
-| **AI Models** | LLaMA 3.3-70B · LLaMA 3.1-8B · GPT-OSS-120B · GPT-OSS-20B · LLaMA-4-Scout-17B · Qwen3-32B |
-| **Math Domains** | Number Theory · Topology · Abstract Algebra · Real Analysis · Combinatorics · Differential Geometry · Probability · Set Theory |
-| **Output Contract** | 7-section structured Markdown: LaTeX Statement · Motivation · Related Results · Proof Approaches · Difficulty · Keywords |
-| **Complexity Tiers** | Undergraduate → Graduate → Research-level → Millennium-level (Clay Prize tier, $1M) |
-| **Visual System** | 7-layer parallax hero · 55-particle canvas (O(n²) connection graph, 90px threshold) · CSS `@property` Houdini · 4 orbital rings · formula ticker |
-| **Analytics** | Chart.js: domain doughnut · complexity bar · 7-day activity timeline. LocalStorage CRUD with JSON export |
-| **Security** | Backend proxy (key never reaches browser) · Model whitelist validation · XSS sanitization (`esc()` + `san()`) |
-
-```javascript
-// 7-section output contract enforced by system prompt:
-{ title, statement, motivation, related, approaches, difficulty, keywords }
-
-// Canvas particle engine:
-const PARTICLE_COUNT = 55;
-const EDGE_THRESHOLD = 90;       // Euclidean distance for connection graph
-const ALPHA = 0.018 * (1 - dist / EDGE_THRESHOLD);  // linear opacity falloff
-// Gold (#d4af37) or Cyan (#4f9cf9) based on sin(life × 1.3) > 0.3
-```
-
-![JavaScript](https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq%20API-000000?style=flat-square)
-![MathJax](https://img.shields.io/badge/MathJax%203-C9A227?style=flat-square)
-![GSAP](https://img.shields.io/badge/GSAP%203.12-88CE02?style=flat-square)
-![Chart.js](https://img.shields.io/badge/Chart.js%204-FF6384?style=flat-square)
-![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js%20Proxy-339933?style=flat-square&logo=node.js&logoColor=white)
-
----
-
-### [question-qenius](https://github.com/sridhar242004/question-qenius) &nbsp; — &nbsp; AI Quiz & Q&A Platform
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### [Quantum Interactive Charts](https://github.com/sridhar242004/Quantum_Interactivecharts) &nbsp; — &nbsp; Advanced Data Visualization
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</details>
-
----
-
-<details open>
-<summary><strong>🎨 Cinematic Frontend Experiences</strong></summary>
-
-<br/>
-
-> Award-targeting, single-file HTML applications engineered at Awwwards caliber. Each one begins with a real design system — tokens, type scale, motion language, a signature element — and ends with something that looks nothing like anything else on the web.
-
-| 🗂️ Project | 🎯 Concept | ✨ Signature Element | 🛠️ Stack |
-|-----------|-----------|---------------------|---------|
-| 🌌 **INTERSTELLAR Tribute** | Christopher Nolan fan site rebuilt from a 2/10 jury score | Three.js Gargantua black hole simulation hero | Three.js · GSAP · WebGL |
-| 🧬 **GeneX Genomic Intelligence** | Nucleotide base-color design system for genomics | Adenine-Thymine-Guanine-Cytosine as brand palette | HTML · GSAP · CSS custom props |
-| ⚗️ **Ordinem — Ritual of Sorting** | Alchemical aesthetic sorting algorithm visualizer | "The Ritual of Sorting" — each algorithm as a ceremony | Canvas 2D · GSAP · CSS |
-| ✏️ **SketchInnovate** | Hand-drawn web experience with Studio Sketchbook design system | Interactive pencil-stroke canvas hero | HTML · Canvas · CSS |
-| 📰 **NEO.BRUTAL+** | Paper-and-ink editorial systems studio | Double-type parallax hero + newspaper grid | HTML · CSS architecture |
-| 🧪 **The Utility Lab** | Dark engineering-lab Tailwind CSS showcase | Interactive Token Arena hero | HTML · CSS · Tailwind |
-| 🔬 **ResearchAI Pro** | AI research landing page + Semantic Scholar API tool | Magnetic cursor + skeleton loaders + editorial design | HTML · JS · Groq API |
-| 👗 **Digital Atelier** | Fashion AI platform with couture aesthetics | Haute couture design system | HTML · CSS · Three.js |
-| 📊 **Web Trends Explorer** | Dark space-theme web trends platform | Groq-powered AI assistant sidebar | HTML · JS · Groq API |
-| 📋 **Interactive Resume Builder** | Multi-version resume builder with AI generation | Three.js hero · GSAP transitions · html2pdf export | Three.js · GSAP · Chart.js |
-| ⚛️ **QuantumViz AI** | Quantum data visualization platform | 40 enhancement opportunities analyzed across 8 categories | HTML · Canvas · JS |
-
-</details>
-
----
-
-<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-
-## ⚡ Tech Arsenal
-
 <div align="center">
 
-**Core Languages**
+<!-- ░░░ FOOTER WAVE ░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,50:1a0a3e,100:050510&height=110&section=footer" />
 
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-
-**AI / ML**
-
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
-[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org)
-
-**Frontend & 3D**
-
-[![Three.js](https://skillicons.dev/icons?i=threejs)](https://threejs.org)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
-
-**Cloud & Tools**
-
-[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sridhar242004)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| Domain | Toolchain |
-|--------|-----------|
-| 🤖 **Generative AI** | HuggingFace Diffusers · I2VGenXL · SDXL · GIT-Base-COCO · Gradio 4.x · gTTS · Pydub · MoviePy · imageio |
-| 🧠 **LLM Integration** | Groq API · LLaMA 3.3-70B · LLaMA 3.1-8B · GPT-OSS-120B · Qwen3-32B · LLaMA-4-Scout · OpenAI SDK |
-| 🎭 **Frontend Motion** | GSAP 3.12 · ScrollTrigger · Three.js r128 · Canvas 2D API · CSS `@property` Houdini · WebGL |
-| 📊 **Visualization** | Chart.js 4 · D3.js · MathJax 3 · Recharts · Custom canvas rendering |
-| ⚙️ **GPU Computing** | CUDA 11.8+ · FP16 inference · CPU offloading · Attention slicing · LRU pipeline caching |
-| 🚀 **Deployment** | Vercel · Google Colab (L4/A100/T4) · GitHub Pages · Express.js proxy |
-
-</div>
-
----
-
-<!-- ═══════════════════════════ GITHUB METRICS ═══════════════════════════ -->
-
-## 📊 GitHub Metrics
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sridhar242004&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D0D1A&border_color=E8C040&title_color=E8C040&text_color=FFFFFF&icon_color=00D4F5&ring_color=E8C040&hide_border=false" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridhar242004&layout=compact&langs_count=8&bg_color=0D0D1A&border_color=E8C040&title_color=E8C040&text_color=FFFFFF&icon_color=00D4F5" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sridhar242004&theme=radical&background=0D0D1A&border=E8C040&ring=E8C040&fire=00D4F5&currStreakNum=E8C040&sideNums=E8C040&currStreakLabel=00D4F5&sideLabels=00D4F5&dates=AAAAAA)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sridhar242004&theme=radical&no-frame=true&row=1&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<!-- ═══════════════════════════ ACTIVITY GRAPH ═══════════════════════════ -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sridhar242004&bg_color=0D0D1A&color=E8C040&line=00D4F5&point=E8C040&area=true&area_color=1A0A2E&hide_border=false&border_color=E8C040&custom_title=Sridhar%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- ═══════════════════════════ DESIGN PHILOSOPHY ═══════════════════════════ -->
-
-## 🎬 Design Philosophy
-
-```
-Every project I build follows a single discipline:
-
-   Technical depth × Aesthetic intention = Something that earns attention.
-
-Not: "Here's a CRUD app."  
-Not: "Here's a wrapper around an API."
-But: "Here's a platform that documents its own architecture,
-      enforces security at the proxy layer, runs on a 24GB L4 GPU,
-      and looks like it was designed for a film studio."
-
-That's what 113 repositories teaches you.
-The engineering and the aesthetics are not separate concerns.
-They are the same concern, approached from two directions.
-```
-
----
-
-<!-- ═══════════════════════════ CURRENTLY BUILDING ═══════════════════════════ -->
-
-## 🔨 Currently Building
-
-- 🎬 **MotionMaster Pro** — Advancing the storyboard-to-cinema pipeline with temporal consistency and ControlNet integration
-- 🧮 **Neural Conjecture Proposer** — Streaming responses, LaTeX `.tex` export, arXiv similarity detection
-- 🌌 **Cinematic Web Experiences** — Pushing every new project toward Awwwards recognition
-- 📚 **Documentation standards** — Every major project gets a FAANG-level README before shipping
-
----
-
-<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
-
-## 🤝 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-sridhar242004-E8C040?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sridhar242004)
-&nbsp;
-[![Repositories](https://img.shields.io/badge/Browse-113%20Repositories-00D4F5?style=for-the-badge&logo=github)](https://github.com/sridhar242004?tab=repositories)
-
-<br/>
-
-*Open to collaborations on generative AI platforms, creative frontier web experiences, and research-grade tools.*
-
-</div>
-
----
-
-<!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
-
-<div align="center">
-
-```
-"Any sufficiently advanced technology is indistinguishable from magic."
-                                                    — Arthur C. Clarke
-
-The job is to make the engineering disappear into the experience.
-```
-
-</div>
-
-<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A1E,30:1A0A2E,70:0D0D1A,100:000000&height=130&section=footer&text=Building%20what%20shouldn't%20exist%20yet&fontSize=18&fontColor=E8C040&fontAlignY=70&animation=fadeIn" width="100%"/>
+<sub>Built with precision · Powered by <a href="https://groq.com">Groq LPU</a> · Deployed on <a href="https://netlify.com">Netlify</a></sub>
 
 </div>
