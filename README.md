@@ -33,11 +33,11 @@
 
 ```
 ╔══════════════════════════════════════════════╗
-║   SRIDHAR S  ──  FULL-STACK AI ENGINEER     ║
+║   SRIDHAR S  ──  FULL-STACK AI ENGINEER      ║
 ╠══════════════════════════════════════════════╣
-║  COMPANY     Software Engineer  @  TCS       ║
-║  DEGREE      B.E. Computer Science · 2025   ║
-║  LOCATION    Tamil Nadu, India  🇮🇳          ║
+║  COMPANY     Software Engineer               ║
+║  DEGREE      B.E. Computer Science · 2025    ║
+║  LOCATION    Tamil Nadu, India  🇮🇳           ║
 ╠══════════════════════════════════════════════╣
 ║  RENDERER    Three.js r128  ·  WebGL        ║
 ║  ANIMATION   GSAP 3.12  ·  ScrollTrigger    ║
@@ -298,15 +298,6 @@ No build tools. No node_modules. Ships instantly.
 
 </div>
 
----
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sridhar242004&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&title=Stars,Commit,Repositories,PullRequest,Issues,Followers,Experience"/>
-</div>
-
----
 
 ## 📈 Contribution Activity
 
