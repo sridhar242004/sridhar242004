@@ -21,6 +21,17 @@
 
 <div align="center">
 
+<!-- ══════════════════════ CINEMATIC HEADER ══════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030210,12:060630,28:0e0545,50:200a5a,72:4a1a90,88:6d28d9,100:7c3aed&height=300&section=header&text=SRIDHAR%20S&fontSize=105&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Full-Stack%20AI%20Engineer%20·%20WebGL%20Craftsman%20·%20IEEE%20Author%20·%20Zero-Backend%20Architect&descSize=15&descColor=c4b5fd&descAlign=50&descAlignY=62&animation=twinkling&stroke=5b21b6&strokeWidth=2"/>
+
+<br/>
+
+<!-- ══════════════════════ TYPING — PRIMARY ══════════════════════ -->
+
+<img src="typing-svg.?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&repeat=true&width=820&height=58&lines=⚡+Building+AI-First+Cinematic+Web+Experiences;🔮+Three.js+r128+·+GSAP+3.12+·+Groq+LPU+·+Anthropic+API;🏆+IEEE+Author+·+AWS+Certified+·+IET+Member+·+Award+Winner;🚀+113+Repositories+·+Zero+Backend+·+One+File+·+Full+WebGL;🧬+Where+Academic+Research+Meets+Pixel-Perfect+Production;⬡+Concept+to+FAANG-Grade+Product+in+a+Single+HTML+File"/>
+
+<br/>
 
 <!-- ══════════════════════ TYPING — SECONDARY ══════════════════════ -->
 
