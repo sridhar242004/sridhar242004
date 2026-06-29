@@ -1,23 +1,70 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     GITHUB PROFILE README  ·  sridhar242004  ·  SRIDHAR S
-     DROP THIS FILE INTO: github.com/sridhar242004/sridhar242004
-     ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     ⚡  S R I D H A R   S   ·   G I T H U B   P R O F I L E   R E A D M E
+     ──────────────────────────────────────────────────────────────────────────
+     WORLD-CLASS  ·  FAANG-GRADE  ·  CINEMATIC  ·  ZERO-BACKEND ARCHITECTURE
+     ──────────────────────────────────────────────────────────────────────────
+     ONE-TIME SETUP (~12 minutes for 100% feature unlock):
+
+     ①  Create repo exactly named: sridhar242004  (github.com/sridhar242004/sridhar242004)
+     ②  Add: .github/workflows/snake.yml          → Contribution snake animation
+     ③  Add: .github/workflows/3d-contrib.yml     → 3D contribution calendar
+     ④  Add: .github/workflows/metrics.yml        → Advanced analytics card
+     ⑤  Join: https://wakatime.com + install the VSCode WakaTime extension
+     ⑥  Secrets (Settings → Secrets → Actions):
+             METRICS_TOKEN   →  GitHub PAT with repo + read:user scopes
+             WAKATIME_API_KEY →  From https://wakatime.com/settings/api-key
+     ⑦  Settings → Actions → General → "Read and write permissions"  ✓
+     ⑧  Actions tab → Run each workflow manually once to generate SVG files
+
+     Workflow YAML files are included at the bottom of this README.
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,20:08083d,50:1a0a3e,80:3d1a6e,100:7c3aed&height=250&section=header&text=SRIDHAR%20S&fontSize=90&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20WebGL%20Craftsman%20%E2%80%A2%20Creative%20Technologist&descSize=17&descColor=c4b5fd&descAlign=50&descAlignY=64&animation=twinkling&stroke=7c3aed&strokeWidth=3"/>
+<!-- ══════════════════════ CINEMATIC HEADER ══════════════════════ -->
 
-<img src="terminal-header.svg?font=JetBrains+Mono&weight=800&size=21&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&repeat=true&width=720&height=52&lines=⚡+Building+AI-First+Cinematic+Web+Experiences;🔮+Three.js+·+GSAP+·+Groq+LPU+·+Tailwind+CSS;📡+113+Repositories+·+Zero+Backend+·+Full+WebGL;🏆+IEEE+Author+·+AWS+Certified+·+IET+Member;🚀+Concept+to+FAANG-Grade+Product+in+One+File" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030210,12:060630,28:0e0545,50:200a5a,72:4a1a90,88:6d28d9,100:7c3aed&height=300&section=header&text=SRIDHAR%20S&fontSize=105&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Full-Stack%20AI%20Engineer%20·%20WebGL%20Craftsman%20·%20IEEE%20Author%20·%20Zero-Backend%20Architect&descSize=15&descColor=c4b5fd&descAlign=50&descAlignY=62&animation=twinkling&stroke=5b21b6&strokeWidth=2"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sridhar-s-242004"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://quantuminteractivecharts.netlify.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90_QuantumViz_AI-LIVE_DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/sridhar242004?tab=repositories"><img src="https://img.shields.io/badge/113_Repos-Explore_All-6c63ff?style=for-the-badge&logo=github&logoColor=white"/></a>
-&nbsp;
+<!-- ══════════════════════ TYPING — PRIMARY ══════════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&repeat=true&width=820&height=58&lines=⚡+Building+AI-First+Cinematic+Web+Experiences;🔮+Three.js+r128+·+GSAP+3.12+·+Groq+LPU+·+Anthropic+API;🏆+IEEE+Author+·+AWS+Certified+·+IET+Member+·+Award+Winner;🚀+113+Repositories+·+Zero+Backend+·+One+File+·+Full+WebGL;🧬+Where+Academic+Research+Meets+Pixel-Perfect+Production;⬡+Concept+to+FAANG-Grade+Product+in+a+Single+HTML+File"/>
+
+<br/>
+
+<!-- ══════════════════════ TYPING — SECONDARY ══════════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3400&pause=700&color=06B6D4&center=true&vCenter=true&repeat=true&width=740&height=34&lines=→+Currently+shipping+Bento+Grid+Playbook+2026+with+Three.js+%2B+Claude+API;→+13+full-stack+AI+platforms+deployed+to+Netlify+CDN+·+Zero+infrastructure+cost;→+WebGL+atmosphere+·+GSAP+choreography+·+Groq+LPU+intelligence+·+One+file;→+Open+to+AI%2FML+Engineering+·+Creative+Tech+·+Full-Stack+Product+Roles"/>
+
+<br/><br/>
+
+<!-- ══════════════════════ SOCIAL BADGES ══════════════════════ -->
+
+<a href="https://www.linkedin.com/in/sridhar-s-242004">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+<a href="https://quantuminteractivecharts.netlify.app">
+  <img src="https://img.shields.io/badge/QuantumViz_AI-LIVE_DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>&nbsp;
+<a href="mailto:sridhar242004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
+<a href="https://github.com/sridhar242004?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-113_Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=sridhar242004&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<!-- ══════════════════════ CREDENTIAL BADGES ══════════════════════ -->
+
+<img src="https://img.shields.io/badge/IEEE-Published_Author-00629B?style=flat-square&logo=ieee&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/IET-Member-005EB8?style=flat-square&logo=electron&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/National_Project_Expo-🏆_Award_Winner-FFD700?style=flat-square"/>&nbsp;
+<img src="https://img.shields.io/badge/Java_Dev-Internship_Certified-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Cybersecurity-Internship_Certified-00BFFF?style=flat-square&logo=hackthebox&logoColor=white"/>
 
 </div>
 
@@ -25,70 +72,191 @@
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<!-- ══════════════════════ TERMINAL BOOT SEQUENCE ══════════════════════ -->
 
-## 💾 System Specs
-
+```text
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│  sridhar@universe:~$ sudo ./init_developer.sh --profile=faang --mode=cinematic  │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                 │
+│  [INIT]  Booting neural interface module ...........................  ✓ READY   │
+│  [INIT]  Calibrating Three.js WebGL renderer (r128) ................  ✓ READY   │
+│  [INIT]  Mounting GSAP 3.12.5 + ScrollTrigger engine ...............  ✓ READY   │
+│  [INIT]  Connecting → Groq LPU  (llama-3.3-70b-versatile) ..........  ✓ ONLINE  │
+│  [INIT]  Connecting → Anthropic API (claude-sonnet-4-6) .............  ✓ ONLINE  │
+│  [INIT]  Syncing Netlify CDN  global edge  (113 deployments) ........  ✓ LIVE    │
+│  [INIT]  Verifying IEEE research credentials ........................  ✓ PUBLISHED│
+│  [INIT]  Verifying AWS Cloud Practitioner certificate ...............  ✓ CERTIFIED│
+│  [INIT]  Loading IET membership + National Project Expo award .......  ✓ LOADED  │
+│  [INIT]  Mounting 113 repositories to virtual filesystem ............  ✓ MOUNTED  │
+│                                                                                 │
+│  ████████████████████████████████████████████████████  100%  SYSTEM ONLINE    │
+│                                                                                 │
+│  ●  SRIDHAR_OS  v2025.1  ─────  READY TO BUILD THE EXTRAORDINARY  ●            │
+└─────────────────────────────────────────────────────────────────────────────────┘
 ```
-╔══════════════════════════════════════════════╗
-║   SRIDHAR S  ──  FULL-STACK AI ENGINEER      ║
-╠══════════════════════════════════════════════╣
-║  COMPANY     Software Engineer               ║
-║  DEGREE      B.E. Computer Science · 2025    ║
-║  LOCATION    Tamil Nadu, India  🇮🇳           ║
-╠══════════════════════════════════════════════╣
-║  RENDERER    Three.js r128  ·  WebGL        ║
-║  ANIMATION   GSAP 3.12  ·  ScrollTrigger    ║
-║  AI ENGINE   Groq LPU  ·  llama-3.3-70b    ║
-║  DEPLOY      Netlify CDN  ·  Global Edge    ║
-╠══════════════════════════════════════════════╣
-║  PUBLIC REPOS    113  shipped & counting    ║
-║  ARCHITECTURE    Zero-backend · One File    ║
-╠══════════════════════════════════════════════╣
-║  ▸  IEEE Author  (Published Research)       ║
-║  ▸  AWS Certified                           ║
-║  ▸  IET Member                              ║
-║  ▸  National Project Expo  🏆  Award        ║
-║  ▸  Java Dev Internship                     ║
-║  ▸  Cybersecurity Internship                ║
-╠══════════════════════════════════════════════╣
-║  STATUS   ●  BUILDING IN PUBLIC             ║
-╚══════════════════════════════════════════════╝
-```
-
-</td>
-<td width="45%" valign="top">
-
-## 🎯 Currently Shipping
-
-**⬡ Bento Grid Playbook 2026**
-> Three.js · GSAP · Claude API
-> AI Bento Architect tool · draggable sliders
-
-**📄 FAANG-Grade Resume Tooling**
-> LaTeX automation · Jake's template base
-> Quantified bullets · ATS-optimised output
-
-**🔬 IEEE Research → Production**
-> Academic CS bridging real creative tech
-> Published research with live web deployment
 
 ---
 
-## 🧠 Philosophy
+<!-- ══════════════════════ PROFILE TABLE ══════════════════════ -->
+
+<table>
+<tr>
+<td width="52%" valign="top">
+
+## 💾 System Specifications
+
+```
+╔══════════════════════════════════════════════════╗
+║  IDENTITY   Sridhar S  ·  Full-Stack AI Engineer ║
+╠══════════════════════════════════════════════════╣
+║  DEGREE     B.E. Computer Science · HITS · 2025  ║
+║  LOCATION   Tamil Nadu, India  🇮🇳                ║
+║  STATUS     ●  Building in Public  ·  Open to    ║
+║             AI/ML · Creative Tech Opportunities  ║
+╠══════════════════════════════════════════════════╣
+║  RENDERER   Three.js r128  +  WebGL             ║
+║  MOTION     GSAP 3.12.5  +  ScrollTrigger       ║
+║  AI ENGINE  Groq LPU  ·  llama-3.3-70b         ║
+║  CLAUDE     claude-sonnet-4-6  (Anthropic)      ║
+║  DEPLOY     Netlify CDN  ·  Global Edge         ║
+╠══════════════════════════════════════════════════╣
+║  PUBLIC REPOS   113  shipped  +  counting       ║
+║  PHILOSOPHY     Zero-Backend · One-File Ships   ║
+╠══════════════════════════════════════════════════╣
+║  ▸ IEEE  Author  (ML Travel Recommendations)    ║
+║  ▸ AWS   Cloud Practitioner  Certified          ║
+║  ▸ IET   Member                                 ║
+║  ▸ National Project Expo  🏆  Award Winner      ║
+║  ▸ Java  Development  Internship                ║
+║  ▸ Cybersecurity  Internship                    ║
+╚══════════════════════════════════════════════════╝
+```
+
+</td>
+<td width="48%" valign="top">
+
+## 🎯 Currently Shipping
+
+**`v2.0`** &nbsp;⬡ Bento Grid Playbook 2026
+> Three.js · GSAP · Claude API · AI Bento Architect
+
+```
+  BENTO GRID PLAYBOOK  [███████████░░░░░░░]  62%
+  RESUME TOOLING FAANG [████████░░░░░░░░░░]  44%
+  QUANTUMVIZ AI        [██████████████████] 100% ✓
+  NEET ASPIRANTS HUB   [██████████████████] 100% ✓
+  MOTIONMASTER PRO     [██████████████████] 100% ✓
+  NIRVANA ANALYTICS    [██████████████████] 100% ✓
+```
+
+---
+
+## 🧠 Engineering Philosophy
 
 > *"Zero backend. Maximum impact.*
 > *One HTML file. Full cinematic quality."*
 
-Every project ships with WebGL for atmosphere,
-GSAP for choreography, Groq LPU for intelligence.
-No build tools. No node_modules. Ships instantly.
+Every build ships with **WebGL** for atmosphere,
+**GSAP** for choreography, **Groq LPU** for intelligence.
+No build tools. No node_modules. Deploys instantly.
+
+Research-to-production pipeline:
+IEEE paper → Real-world web deployment → Live users.
 
 </td>
 </tr>
 </table>
+
+---
+
+<!-- ══════════════════════ STACK SIGNATURE ══════════════════════ -->
+
+```js
+/* ─────────────────────────────────────────────────────────────────────
+   ⚡  S R I D H A R ' S   S T A C K   S I G N A T U R E
+   ───────────────────────────────────────────────────────────────────── */
+
+const hero()   = Three.js_r128  + WebGL               // → Atmosphere
+const motion() = GSAP_3125      + ScrollTrigger        // → Choreography
+const brain()  = Groq_LPU       + llama_3_3_70b        // → Intelligence
+const claude() = Anthropic_API  + claude_sonnet_4_6    // → Wisdom
+const style()  = TailwindCSS    + SpaceGrotesk_Syne    // → Aesthetics
+const data()   = ChartJS        + D3v7  + Plotly       // → Insight
+const ship()   = Netlify_CDN    + ZeroBackend          // → Production
+
+const result() → FAANG_Grade_Cinematic_Experience()    // in ONE file 🚀
+```
+
+---
+
+<!-- ══════════════════════ BY THE NUMBERS ══════════════════════ -->
+
+<div align="center">
+
+## 📊 By The Numbers
+
+<img src="https://img.shields.io/badge/Repositories-113_Shipped-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Architecture-Zero_Backend-06b6d4?style=for-the-badge&logo=netlify&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Stack-One_HTML_File-10b981?style=for-the-badge&logo=html5&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AI_APIs-5+_Per_Project-f59e0b?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/IEEE_Research-Published-00629B?style=flat-square&logo=ieee&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ML_Algorithms-15_in_QuantumViz-7c3aed?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Chart_Types-12_in_QuantumViz-06b6d4?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Build_Tools-Zero-10b981?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/node__modules-None-f59e0b?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Backend_Servers-0-ef4444?style=flat-square"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════ FEATURED PROJECT ══════════════════════ -->
+
+## 🌟 Featured: QuantumViz AI — Zero-Backend ML Intelligence
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+<a href="https://quantuminteractivecharts.netlify.app">
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-quantuminteractivecharts.netlify.app-00C7B7?style=for-the-badge&logo=netlify"/>
+</a>
+&nbsp;
+<a href="https://github.com/sridhar242004/Quantum_Interactivecharts">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-🟢_LIVE-00C7B7?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/sridhar242004/Quantum_Interactivecharts?style=for-the-badge&color=ffd700&logo=github&logoColor=white&label=STARS"/>
+
+<br/><br/>
+
+**Drop a CSV → Choose from 15 ML algorithms → Render 12 chart types → Query a streaming Groq AI analyst**
+
+No install. No server. No build step. One HTML file. Production-grade.
+
+`Three.js r128` · `Groq LPU` · `Plotly.js` · `D3.js v7` · `Tailwind CSS` · `15 ML Algorithms` · `12 Chart Types` · `SSE Streaming`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -96,146 +264,220 @@ No build tools. No node_modules. Ships instantly.
 
 <div align="center">
 
+<!-- ROW 1 -->
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-<h3 align="center">🔮 QuantumViz AI</h3>
+### 🎬 MotionMaster Pro
 
-<p align="center">
-<a href="https://quantuminteractivecharts.netlify.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90_LIVE_DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-<a href="https://github.com/sridhar242004/Quantum_Interactivecharts"><img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<a href="https://github.com/sridhar242004/MotionMaster">
+  <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-🟢_LIVE-00C7B7?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/sridhar242004/MotionMaster?style=flat-square&color=ffd700&logo=github&logoColor=white"/>
 
-<p align="center">Zero-backend ML intelligence platform. Drop a CSV → choose from 15 algorithms → render 12 chart types → query a streaming Groq AI analyst. No install. No server. One file.</p>
+Cinematic video production platform. Film-perforation aesthetic, WebGL particle wave hero, GSAP ScrollTrigger scroll choreography, editorial motion system. Built thrice — each rebuild a full ground-up redesign targeting Awwwards.
 
-<p align="center">
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-r128-000000?style=flat-square&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/GSAP-3.12.5-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
+<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square"/>
 <img src="https://img.shields.io/badge/Groq_LPU-FF6B35?style=flat-square"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-<h3 align="center">🎬 MotionMaster Pro</h3>
+### 📈 NIRVANA — AI Stock Analytics
 
-<p align="center">
-<a href="https://github.com/sridhar242004/MotionMaster"><img src="https://img.shields.io/badge/VIEW_REPO-6c63ff?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<a href="https://github.com/sridhar242004">
+  <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-🟢_LIVE-00C7B7?style=flat-square"/>
 
-<p align="center">Cinematic video production platform. WebGL particle hero, GSAP scroll choreography with ScrollTrigger, editorial motion system. FAANG-grade UX with zero framework dependency.</p>
+AI-powered Indian stock market intelligence platform. WebGL particle canvas hero, Chart.js sparklines, simulated live price data feeds, GSAP scroll reveals, Groq AI market analyst with SSE streaming.
 
-<p align="center">
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/GSAP_3.12-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🧮 MATAI</h3>
-
-<p align="center">
-<a href="https://github.com/sridhar242004/MATAI"><img src="https://img.shields.io/badge/VIEW_REPO-6c63ff?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">AI-powered mathematics platform. LLM-driven reasoning engine with step-by-step problem solving, dynamic equation rendering, and adaptive difficulty scaling.</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Groq_LPU-FF6B35?style=flat-square"/>
-<img src="https://img.shields.io/badge/MathJS-4CAF50?style=flat-square"/>
+<img src="https://img.shields.io/badge/Three.js-r128-000000?style=flat-square&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🎯 Question Qenius</h3>
-
-<p align="center">
-<a href="https://github.com/sridhar242004/question-qenius"><img src="https://img.shields.io/badge/VIEW_REPO-6c63ff?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">AI quiz generation engine. Generates, grades, and explains adaptive quizzes in real time. Context-aware across any subject — powered by Groq LPU for near-instant responses.</p>
-
-<p align="center">
 <img src="https://img.shields.io/badge/Groq_LPU-FF6B35?style=flat-square"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
 
 </td>
-</tr>
 
+</tr>
+</table>
+
+<!-- ROW 2 -->
+<table>
 <tr>
+
 <td width="50%" valign="top">
 
-<h3 align="center">🎨 AIdrawtoimage.AI</h3>
+### 🧬 NEET Aspirants Hub — Dr. NEET AI
 
-<p align="center">
-<a href="https://github.com/sridhar242004/AIdrawtoimage.AI"><img src="https://img.shields.io/badge/VIEW_REPO-6c63ff?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<a href="https://github.com/sridhar242004">
+  <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-🟢_LIVE-00C7B7?style=flat-square"/>
 
-<p align="center">Sketch-to-image AI pipeline. Converts freehand canvas drawings into polished AI-generated art via diffusion models. Python backend with a real-time browser interface.</p>
+"Dark Academy × BioTech" design language. DNA double-helix Three.js hero, integrated AI mentor "Dr. NEET" powered by Anthropic claude-sonnet-4-6 with SSE streaming, subject chapter navigator, mock test engine.
 
-<p align="center">
+<img src="https://img.shields.io/badge/Three.js-DNA_Helix-000000?style=flat-square&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic-claude--sonnet--4--6-CC785C?style=flat-square"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
+<img src="https://img.shields.io/badge/SSE-Streaming-06b6d4?style=flat-square"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 NeuroDraw — AI Sketch-to-Image
+
+<a href="https://github.com/sridhar242004/AIdrawtoimage.AI">
+  <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-🟢_LIVE-00C7B7?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/sridhar242004/AIdrawtoimage.AI?style=flat-square&color=ffd700&logo=github&logoColor=white"/>
+
+Freehand canvas drawings → polished AI-generated art via ControlNet + Stable Diffusion pipeline. Flask backend, real-time browser Canvas API interface, brush/eraser tooling, multi-prompt layering.
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Stable_Diffusion-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Canvas_API-FF6384?style=flat-square"/>
+<img src="https://img.shields.io/badge/ControlNet-FF6B35?style=flat-square"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-</p>
 
 </td>
+
+</tr>
+</table>
+
+<!-- ROW 3 -->
+<table>
+<tr>
+
 <td width="50%" valign="top">
 
-<h3 align="center">🌍 LinguaFlow</h3>
+### 🧮 MATAI — AI Mathematics Engine
 
-<p align="center">
-<a href="https://github.com/sridhar242004"><img src="https://img.shields.io/badge/VIEW_REPO-6c63ff?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<a href="https://github.com/sridhar242004/MATAI">
+  <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-🟢_LIVE-00C7B7?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/sridhar242004/MATAI?style=flat-square&color=ffd700&logo=github&logoColor=white"/>
 
-<p align="center">Real-time AI translation platform. Interactive 3D language globe, CSS cascade layers, scroll-driven animations via <code>@property</code> and container queries. Cutting-edge CSS architecture.</p>
+LLM-driven mathematics reasoning platform. Step-by-step problem solving, dynamic LaTeX equation rendering via MathJS, adaptive difficulty scaling, conjecture generation with LLaMA + Mixtral ensemble.
 
-<p align="center">
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Groq_LPU-FF6B35?style=flat-square"/>
-<img src="https://img.shields.io/badge/CSS_@layer-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/MathJS-4CAF50?style=flat-square"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square"/>
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
-</p>
 
 </td>
-</tr>
 
+<td width="50%" valign="top">
+
+### 📖 LexiVerse — NarrativeAI Story Reader
+
+<a href="https://github.com/sridhar242004">
+  <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-🟢_LIVE-00C7B7?style=flat-square"/>
+
+Final-year mini-project. Groq-powered real-time story translation + Text-to-Speech narration engine. Multi-language support, dynamic reading themes, immersive fullscreen reader mode, voice-command integration.
+
+<img src="https://img.shields.io/badge/Groq_LPU-FF6B35?style=flat-square"/>
+<img src="https://img.shields.io/badge/Web_Speech_API-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/WebAudio-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
+
+</td>
+
+</tr>
+</table>
+
+<!-- ROW 4 -->
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚡ IdeaSpark AI — Innovation Platform
+
+<a href="https://github.com/sridhar242004">
+  <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-🟢_LIVE-00C7B7?style=flat-square"/>
+
+Three.js neural network particle hero, Groq SSE streaming idea generation, competitive analysis mode, patent concept explorer, startup pitch deck builder. Real-time collaborative brainstorm engine.
+
+<img src="https://img.shields.io/badge/Three.js-Neural_Net-000000?style=flat-square&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq_LPU-Streaming-FF6B35?style=flat-square"/>
+<img src="https://img.shields.io/badge/GSAP-ScrollTrigger-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 QuestionQenius — AI Quiz Engine
+
+<a href="https://github.com/sridhar242004/question-qenius">
+  <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-🟢_LIVE-00C7B7?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/sridhar242004/question-qenius?style=flat-square&color=ffd700&logo=github&logoColor=white"/>
+
+Adaptive AI quiz generation, grading, and explanation engine. Context-aware across any subject. Groq LPU for near-instant 100ms response times. Difficulty auto-calibration, streak tracking, analytics dashboard.
+
+<img src="https://img.shields.io/badge/Groq_LPU-FF6B35?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white"/>
+
+</td>
+
+</tr>
 </table>
 
 </div>
 
+<!-- ══════════════════════ MORE PROJECTS (COLLAPSIBLE) ══════════════════════ -->
+
 <details>
 <summary align="center">
-<strong>⊕ 8 More Projects — EcoTrack · Nexus Narrative · NEO.BRUTAL+ · FashionAI · ZenMode · DashGen · ResumeForge AI · NeoBrut VR</strong>
+<strong>⊕ Expand — 12 More Deployed Projects</strong>
 </summary>
 <br/>
 
-| Project | What It Does | Stack |
-|:--------|:------------|:------|
-| **🌍 EcoTrack** | Carbon footprint tracker — wireframe 3D Earth, AI sustainability tips, localStorage persistence | `Three.js` `Groq` `Chart.js` |
-| **📖 Nexus Narrative** | AI storytelling engine — 6 genre realms, branching plots, SpeechSynthesis narration, voice commands | `Groq` `WebSpeech API` `WebAudio` |
-| **🏢 NEO.BRUTAL+** | Award-target editorial studio site — WebGL hero, GSAP scroll, draggable sliders, AI Bento Architect | `Three.js` `GSAP` `Claude API` |
-| **👗 FashionAI** | AI wardrobe OS — outfit generator, drag-and-drop closet, style analytics dashboard | `Groq` `Tailwind` `Drag & Drop API` |
-| **🧘 ZenMode** | Digital detox assistant — breathing tools, gamified wellbeing challenges, Chart.js analytics | `Groq` `Chart.js` `GSAP` |
-| **📊 DashGen** | AI data visualization platform — CSV upload, ECharts, streaming Groq analysis engine | `ECharts` `Groq` `Tailwind` |
-| **📄 ResumeForge AI** | Resume builder — live preview, ATS analyzer, Chart.js skills radar, PDF export | `Groq` `Chart.js` `jsPDF` |
-| **🖼️ NeoBrut VR Art Gallery** | Spline 3D hero + Three.js virtual gallery, Groq AI curator "ARIA" | `Spline` `Three.js` `Groq` |
+<div align="center">
+
+| Project | Description | Stack | Status |
+|:--------|:------------|:------|:------:|
+| **🏥 HealthTwin** | Digital health analytics — DNA helix hero, Chart.js biometric dashboard, Groq AI health advisor, SSE streaming | `Three.js` `Groq` `Chart.js` | 🟢 |
+| **🖥️ OS Scheduler Pro X** | CPU scheduling simulator — 3D CPU die hero, algorithm visualizer (FCFS/SJF/RR), Groq AI advisor | `Three.js` `GSAP` `Groq` | 🟢 |
+| **⬡ NEO.BRUTAL+** | Award-target editorial studio — WebGL hero, draggable sliders, GSAP scroll, AI Bento Architect (Claude API) | `Three.js` `GSAP` `Claude API` | 🟢 |
+| **🌐 LinguaFlow** | Real-time AI translation — 3D language globe, CSS cascade layers, container queries, Groq streaming | `Three.js` `Groq` `CSS @layer` | 🟢 |
+| **🌍 EcoTrack** | Carbon footprint tracker — wireframe 3D Earth, Groq sustainability tips, Chart.js analytics, localStorage | `Three.js` `Groq` `Chart.js` | 🟢 |
+| **🧘 ZenMode** | Digital detox platform — breathing visualizer, gamified wellbeing challenges, Chart.js streak analytics | `Groq` `Chart.js` `GSAP` | 🟢 |
+| **📊 ClimaCore Observatory** | Climate data simulator — multi-variable Chart.js dashboards, Three.js Earth, GSAP data reveals | `Three.js` `Chart.js` `GSAP` | 🟢 |
+| **👗 FashionAI** | AI wardrobe OS — outfit generator, drag-and-drop closet manager, style analytics, Groq style advisor | `Groq` `Tailwind` `DnD API` | 🟢 |
+| **📄 ResumeForge AI** | FAANG resume builder — ATS analyzer, Chart.js skills radar, LaTeX export, live preview | `Groq` `Chart.js` `jsPDF` | 🟢 |
+| **🖼️ NeoBrut VR Art Gallery** | Spline 3D hero + Three.js virtual gallery, Groq AI art curator "ARIA", immersive walk-through | `Spline` `Three.js` `Groq` | 🟢 |
+| **📖 Nexus Narrative** | AI storytelling — 6 genre realms, branching plots, SpeechSynthesis narration, voice commands | `Groq` `WebSpeech` `WebAudio` | 🟢 |
+| **🔬 Neural Conjecture Proposer** | Math conjecture generation — LLaMA + Mixtral ensemble, "Mathematical Observatory" UI, Groq LPU | `Groq` `MathJS` `Three.js` | 🟢 |
+
+</div>
 
 </details>
 
@@ -243,44 +485,144 @@ No build tools. No node_modules. Ships instantly.
 
 ## 🛠️ Tech Arsenal
 
-**Languages**
+<div align="center">
 
-<p>
+**LANGUAGES**
+
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&theme=dark"/>
-</p>
 
-**3D · Animation · Visualization**
+<br/><br/>
 
-<p>
+**3D · ANIMATION · VISUALIZATION**
+
 <img src="https://skillicons.dev/icons?i=threejs&theme=dark"/>
-&nbsp;<img src="https://img.shields.io/badge/GSAP_3.12-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
-&nbsp;<img src="https://img.shields.io/badge/D3.js_v7-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/Plotly.js-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge"/>
-&nbsp;<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white"/>
-</p>
+&nbsp;
+<img src="https://img.shields.io/badge/GSAP_3.12.5-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ScrollTrigger-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/D3.js_v7-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Plotly.js-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Canvas_API-FF6384?style=for-the-badge"/>
 
-**AI · LLM · Inference**
+<br/><br/>
 
-<p>
+**AI · LLM · INFERENCE**
+
 <img src="https://img.shields.io/badge/Groq_LPU-FF6B35?style=for-the-badge"/>
-&nbsp;<img src="https://img.shields.io/badge/llama--3.3--70b-FF6B35?style=for-the-badge"/>
-&nbsp;<img src="https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/Stable_Diffusion-8A2BE2?style=for-the-badge"/>
-&nbsp;<img src="https://img.shields.io/badge/SSE_Streaming-00C7B7?style=for-the-badge"/>
-</p>
+&nbsp;
+<img src="https://img.shields.io/badge/llama--3.3--70b--versatile-FF6B35?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Anthropic_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/claude--sonnet--4--6-CC785C?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Stable_Diffusion-8A2BE2?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ControlNet-7c3aed?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SSE_Streaming-06B6D4?style=for-the-badge"/>
 
-**Frameworks · UI**
+<br/><br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,sass,nodejs&theme=dark"/>
-</p>
+**FRAMEWORKS · UI · STYLING**
 
-**Tools · Cloud · Deploy**
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,sass,flask,nodejs&theme=dark"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,aws,netlify,vscode,figma,linux&theme=dark"/>
-</p>
+<br/><br/>
+
+**CLOUD · DEPLOYMENT · DEVOPS**
+
+<img src="https://skillicons.dev/icons?i=aws,netlify,git,github,linux,docker&theme=dark"/>
+
+<br/><br/>
+
+**TOOLS · DESIGN · PRODUCTIVITY**
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,notion,jupyter&theme=dark"/>
+
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/>
+<strong>Cloud Practitioner</strong><br/>
+<sub>Amazon Web Services · Certified</sub>
+</td>
+
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white"/><br/>
+<strong>Published Author</strong><br/>
+<sub>ML-Based Travel Recommendations</sub>
+</td>
+
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/IET-005EB8?style=for-the-badge"/><br/>
+<strong>Member</strong><br/>
+<sub>Institution of Engineering & Technology</sub>
+</td>
+
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/🏆-FFD700?style=for-the-badge"/><br/>
+<strong>Award Winner</strong><br/>
+<sub>National Project Exposition</sub>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br/>
+<strong>Dev Internship</strong><br/>
+<sub>Certified Completion</sub>
+</td>
+
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/Cybersecurity-00BFFF?style=for-the-badge&logo=hackthebox&logoColor=white"/><br/>
+<strong>Cyber Internship</strong><br/>
+<sub>Certified Completion</sub>
+</td>
+
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/B.E._CSE-7c3aed?style=for-the-badge&logo=graduation-cap&logoColor=white"/><br/>
+<strong>Computer Science</strong><br/>
+<sub>HITS · 2025 Graduate</sub>
+</td>
+
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/><br/>
+<strong>Animation Architect</strong><br/>
+<sub>ScrollTrigger · GSAP 3.12+</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -288,21 +630,70 @@ No build tools. No node_modules. Ships instantly.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sridhar242004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=c4b5fd&ring_color=7c3aed"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sridhar242004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=c4b5fd&ring_color=7c3aed&border_radius=12"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridhar242004&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c4b5fd"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridhar242004&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c4b5fd&border_radius=12"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=sridhar242004&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=06B6D4&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280&stroke=1a0a3e"/>
+<img src="https://streak-stats.demolab.com?user=sridhar242004&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=06B6D4&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280&stroke=1a0a3e&border_radius=12"/>
 
 </div>
 
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sridhar242004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════ WAKATIME STATS ══════════════════════
+     SETUP: https://wakatime.com → free account → install VSCode extension
+     Add secret WAKATIME_API_KEY to repo secrets
+     Replace "YOUR_WAKATIME_USERNAME" below with your WakaTime username
+     ════════════════════════════════════════════════════════════ -->
+
+## ⏱️ WakaTime Coding Activity
+
+> **Setup needed:** [Join WakaTime](https://wakatime.com) (free) → install VSCode extension → add `WAKATIME_API_KEY` to repo secrets → replace `YOUR_WAKATIME_USERNAME` below
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c4b5fd&icon_color=06b6d4&border_radius=12"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════ 3D CONTRIBUTION CALENDAR ══════════════════════
+     SETUP: Add .github/workflows/3d-contrib.yml (file below)
+     Run the workflow once manually → it generates the SVG in /profile-3d-contrib/
+     The image will auto-update nightly via cron
+     ════════════════════════════════════════════════════════════════════ -->
+
+## 🌐 3D Contribution Calendar
+
+> **Setup needed:** Add the `3d-contrib.yml` workflow below → run it once manually
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sridhar242004/sridhar242004/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
+
+</div>
+
+---
 
 ## 📈 Contribution Activity
 
 <div align="center">
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sridhar242004&theme=tokyo-night&bg_color=0d1117&color=7c3aed&line=06b6d4&point=7c3aed&area=true&hide_border=true&area_color=1a0a3e&custom_title=Sridhar%27s%20Contribution%20Timeline"/>
+
 </div>
 
 ---
@@ -311,17 +702,14 @@ No build tools. No node_modules. Ships instantly.
 
 <!--
   ─────────────────────────────────────────────────────────
-  ONE-TIME SETUP (takes ~3 minutes):
-  1. Create repo named exactly "sridhar242004"
-  2. Add this README.md to the repo root
-  3. Create .github/workflows/snake.yml  (file provided)
-  4. Settings → Actions → General → set "Read and write"
-  5. Actions tab → "Generate Snake Animation" → Run workflow
-  6. Snake auto-regenerates every 12 hours via cron
+  SETUP: Add .github/workflows/snake.yml (file below)
+  Settings → Actions → General → "Read and write permissions"
+  Run the workflow once → snake auto-regenerates every 12h
   ─────────────────────────────────────────────────────────
 -->
 
 <div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/sridhar242004/sridhar242004/output/github-contribution-grid-snake-dark.svg"/>
@@ -330,40 +718,228 @@ No build tools. No node_modules. Ships instantly.
   <img alt="GitHub contribution snake animation"
        src="https://raw.githubusercontent.com/sridhar242004/sridhar242004/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
+
 </div>
 
 ---
 
-## 📡 Let's Connect
+<!-- ══════════════════════ PHILOSOPHY / MANIFESTO ══════════════════════ -->
+
+## 🌌 The Manifesto
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   "Code is not just logic. It is choreography.                           ║
+║    Every pixel has intent. Every animation has meaning.                  ║
+║    Every AI response is a conversation with the future."                 ║
+║                                                                           ║
+║   I build products, not just projects.                                   ║
+║   I ship experiences, not just websites.                                 ║
+║   I don't ask for infrastructure. I make the browser the server.         ║
+║                                                                           ║
+║   Zero node_modules.  Zero build steps.  Zero backend servers.           ║
+║   One HTML file. Full cinematic quality. Instant global deployment.      ║
+║                                                                           ║
+║   From IEEE research paper → to production web app → to live users.     ║
+║   This is the pipeline. This is the craft. This is the obsession.       ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=4000&pause=800&color=7C3AED&center=true&vCenter=true&repeat=true&width=720&height=40&lines=「+Where+limits+are+constraints+·+imagination+is+the+engine+」;「+Every+project+is+a+love+letter+to+the+craft+of+engineering+」;「+The+best+code+is+invisible+·+the+experience+is+everything+」"/>
+
+</div>
+
+---
+
+## 📡 Let's Build Something Extraordinary
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sridhar-s-242004">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://quantuminteractivecharts.netlify.app">
-  <img src="https://img.shields.io/badge/QuantumViz_AI-Try%20It%20Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QuantumViz_AI-Try_It_Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:sridhar242004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/sridhar242004?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Explore_113_Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<sub>Open to <strong>AI/ML Engineering</strong> · <strong>Creative Tech</strong> · <strong>Ambitious Collaborations</strong></sub>
+<sub>Open to &nbsp;<strong>AI/ML Engineering</strong>&nbsp;·&nbsp;<strong>Full-Stack Product Roles</strong>&nbsp;·&nbsp;<strong>Creative Tech Collaborations</strong>&nbsp;·&nbsp;<strong>Ambitious Research-to-Production Projects</strong></sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,25:5b21b6,50:2d1260,75:0e0545,100:030210&height=140&section=footer"/>
+
+<sub><strong>Built with precision ·
+Powered by <a href="https://groq.com">Groq LPU</a> ·
+Intelligent via <a href="https://anthropic.com">Anthropic API</a> ·
+Deployed on <a href="https://netlify.com">Netlify</a></strong></sub>
 
 </div>
-
-<br/>
 
 ---
 
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════════════
+     GITHUB ACTIONS WORKFLOW FILES
+     Copy each workflow to .github/workflows/FILENAME.yml
+     ═══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,40:1a0a3e,100:050510&height=130&section=footer"/>
+<details>
+<summary><strong>⚙️ GitHub Actions Workflow Files — Click to Expand</strong></summary>
 
-<sub><strong>Built with precision · Powered by <a href="https://groq.com">Groq LPU</a> · Deployed on <a href="https://netlify.com">Netlify</a></strong></sub>
+### `.github/workflows/snake.yml` — Contribution Snake Animation
 
-</div>
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # regenerates every 12 hours
+  workflow_dispatch:           # run manually anytime
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake animation to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+### `.github/workflows/3d-contrib.yml` — 3D Contribution Calendar
+
+```yaml
+name: Generate 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # regenerates daily at 18:00 UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate 3D Contribution Image
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: sridhar242004
+        with:
+          MAX_REPOS: 50
+          SETTING_JSON: |
+            {
+              "githubUserName": "sridhar242004",
+              "startWeekDay": 0,
+              "topLangType": "pie",
+              "topLangForegroundColor": "#c4b5fd",
+              "topLangBackgroundColor": "#0d1117",
+              "backgroundColor": "#0d1117",
+              "backgroundImage": "",
+              "foregroundColor": "#7c3aed",
+              "contribution": {
+                "topColorCommit": "#7c3aed",
+                "secondColorCommit": "#06b6d4",
+                "thirdColorCommit": "#10b981",
+                "fourthColorCommit": "#f59e0b",
+                "rainyDayColor": "#1e1b4b",
+                "textForegroundColor": "#c4b5fd",
+                "textBackgroundColor": "transparent"
+              }
+            }
+
+      - name: Commit & Push 3D Calendar
+        uses: EndBug/add-and-commit@v7.5.0
+        with:
+          message: "chore: regenerate 3D contribution calendar [skip ci]"
+          add: "profile-3d-contrib/"
+```
+
+---
+
+### `.github/workflows/metrics.yml` — Advanced Analytics Card (Optional)
+
+```yaml
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: sridhar242004
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, lines, percentage
+          plugin_languages_limit: 8
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_limit: 0
+          config_order: base.header, base.activity, languages, topics, stars, achievements
+          filename: github-metrics.svg
+          output_action: commit
+          committer_branch: github-metrics
+          committer_message: "chore: update GitHub metrics [skip ci]"
+```
+
+</details>
