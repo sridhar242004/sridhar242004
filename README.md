@@ -29,7 +29,7 @@
 
 <!-- ══════════════════════ TYPING — PRIMARY ══════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&repeat=true&width=820&height=58&lines=⚡+Building+AI-First+Cinematic+Web+Experiences;🔮+Three.js+r128+·+GSAP+3.12+·+Groq+LPU+·+Anthropic+API;🏆+IEEE+Author+·+AWS+Certified+·+IET+Member+·+Award+Winner;🚀+113+Repositories+·+Zero+Backend+·+One+File+·+Full+WebGL;🧬+Where+Academic+Research+Meets+Pixel-Perfect+Production;⬡+Concept+to+FAANG-Grade+Product+in+a+Single+HTML+File"/>
+<img src="typing-svg.?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&repeat=true&width=820&height=58&lines=⚡+Building+AI-First+Cinematic+Web+Experiences;🔮+Three.js+r128+·+GSAP+3.12+·+Groq+LPU+·+Anthropic+API;🏆+IEEE+Author+·+AWS+Certified+·+IET+Member+·+Award+Winner;🚀+113+Repositories+·+Zero+Backend+·+One+File+·+Full+WebGL;🧬+Where+Academic+Research+Meets+Pixel-Perfect+Production;⬡+Concept+to+FAANG-Grade+Product+in+a+Single+HTML+File"/>
 
 <br/>
 
