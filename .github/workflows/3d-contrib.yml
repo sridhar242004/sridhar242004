@@ -1,0 +1,51 @@
+name: Generate 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # Regenerates daily at 18:00 UTC (11:30 PM IST)
+  workflow_dispatch:          # Can be triggered manually from Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate 3D Contribution Image
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: sridhar242004
+        with:
+          MAX_REPOS: 50
+          SETTING_JSON: |
+            {
+              "githubUserName": "sridhar242004",
+              "startWeekDay": 0,
+              "topLangType": "pie",
+              "topLangForegroundColor": "#c4b5fd",
+              "topLangBackgroundColor": "#0d1117",
+              "backgroundColor": "#0d1117",
+              "backgroundImage": "",
+              "foregroundColor": "#7c3aed",
+              "contribution": {
+                "topColorCommit": "#7c3aed",
+                "secondColorCommit": "#06b6d4",
+                "thirdColorCommit": "#10b981",
+                "fourthColorCommit": "#f59e0b",
+                "rainyDayColor": "#1e1b4b",
+                "textForegroundColor": "#c4b5fd",
+                "textBackgroundColor": "transparent"
+              }
+            }
+
+      - name: Commit and Push 3D Calendar SVG
+        uses: EndBug/add-and-commit@v7.5.0
+        with:
+          message: "chore: regenerate 3D contribution calendar [skip ci]"
+          add: "profile-3d-contrib/"
