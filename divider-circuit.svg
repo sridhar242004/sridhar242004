@@ -1,57 +1,153 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="1200" height="80">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="1200" height="100" preserveAspectRatio="xMidYMid slice">
   <defs>
     <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#030210" stop-opacity="0"/>
-      <stop offset="20%" stop-color="#7c3aed" stop-opacity="0.8"/>
+      <stop offset="15%" stop-color="#7c3aed" stop-opacity="0.6"/>
       <stop offset="50%" stop-color="#06b6d4" stop-opacity="1"/>
-      <stop offset="80%" stop-color="#7c3aed" stop-opacity="0.8"/>
+      <stop offset="85%" stop-color="#7c3aed" stop-opacity="0.6"/>
       <stop offset="100%" stop-color="#030210" stop-opacity="0"/>
     </linearGradient>
-    <filter id="divGlow">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <filter id="divGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="nodeGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
 
-  <!-- Main line -->
-  <line x1="0" y1="40" x2="1200" y2="40" stroke="url(#divGrad)" stroke-width="2" filter="url(#divGlow)"/>
+  <!-- Background fade -->
+  <rect width="1200" height="100" fill="#030210" opacity="0.3"/>
 
-  <!-- Animated pulse nodes -->
-  <circle cx="200" cy="40" r="3" fill="#7c3aed" filter="url(#divGlow)">
-    <animate attributeName="r" values="3;6;3" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
+  <!-- Main spine line -->
+  <line x1="0" y1="50" x2="1200" y2="50" stroke="url(#divGrad)" stroke-width="2.5" filter="url(#divGlow)"/>
+  <line x1="0" y1="50" x2="1200" y2="50" stroke="#ffffff" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Neural nodes along spine -->
+  <g filter="url(#nodeGlow)">
+    <!-- Node 1 -->
+    <circle cx="150" cy="50" r="5" fill="#7c3aed">
+      <animate attributeName="r" values="5;8;5" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="150" cy="50" r="2" fill="#ffffff"/>
+    <!-- Node 2 -->
+    <circle cx="350" cy="50" r="5" fill="#06b6d4">
+      <animate attributeName="r" values="5;8;5" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.4;1" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="50" r="2" fill="#ffffff"/>
+    <!-- Node 3 -->
+    <circle cx="600" cy="50" r="6" fill="#10b981">
+      <animate attributeName="r" values="6;9;6" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.4;1" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="50" r="2.5" fill="#ffffff"/>
+    <!-- Node 4 -->
+    <circle cx="850" cy="50" r="5" fill="#f59e0b">
+      <animate attributeName="r" values="5;8;5" dur="3s" begin="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.4;1" dur="3s" begin="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="850" cy="50" r="2" fill="#ffffff"/>
+    <!-- Node 5 -->
+    <circle cx="1050" cy="50" r="5" fill="#ec4899">
+      <animate attributeName="r" values="5;8;5" dur="3s" begin="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.4;1" dur="3s" begin="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="50" r="2" fill="#ffffff"/>
+  </g>
+
+  <!-- Branch connections to top -->
+  <g stroke="#7c3aed" stroke-width="1" fill="none" opacity="0.5" filter="url(#divGlow)">
+    <path d="M 150 50 Q 150 30 200 20" stroke-dasharray="4 4">
+      <animate attributeName="stroke-dashoffset" values="0;-16" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 350 50 Q 350 30 300 20" stroke-dasharray="4 4">
+      <animate attributeName="stroke-dashoffset" values="0;-16" dur="2.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 600 50 Q 600 30 650 20" stroke-dasharray="4 4">
+      <animate attributeName="stroke-dashoffset" values="0;-16" dur="1.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 850 50 Q 850 30 800 20" stroke-dasharray="4 4">
+      <animate attributeName="stroke-dashoffset" values="0;-16" dur="2.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 1050 50 Q 1050 30 1100 20" stroke-dasharray="4 4">
+      <animate attributeName="stroke-dashoffset" values="0;-16" dur="2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Branch connections to bottom -->
+  <g stroke="#06b6d4" stroke-width="1" fill="none" opacity="0.5" filter="url(#divGlow)">
+    <path d="M 150 50 Q 150 70 100 80" stroke-dasharray="4 4">
+      <animate attributeName="stroke-dashoffset" values="0;-16" dur="2.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 350 50 Q 350 70 400 80" stroke-dasharray="4 4">
+      <animate attributeName="stroke-dashoffset" values="0;-16" dur="1.9s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 600 50 Q 600 70 550 80" stroke-dasharray="4 4">
+      <animate attributeName="stroke-dashoffset" values="0;-16" dur="2.4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 850 50 Q 850 70 900 80" stroke-dasharray="4 4">
+      <animate attributeName="stroke-dashoffset" values="0;-16" dur="2.1s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 1050 50 Q 1050 70 1000 80" stroke-dasharray="4 4">
+      <animate attributeName="stroke-dashoffset" values="0;-16" dur="2.3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Signal pulses traveling along spine -->
+  <circle r="3" fill="#ffffff" filter="url(#nodeGlow)">
+    <animateMotion path="M 0 50 L 1200 50" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" dur="4s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="600" cy="40" r="3" fill="#06b6d4" filter="url(#divGlow)">
-    <animate attributeName="r" values="3;6;3" dur="3s" begin="1s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0.3;1" dur="3s" begin="1s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1000" cy="40" r="3" fill="#7c3aed" filter="url(#divGlow)">
-    <animate attributeName="r" values="3;6;3" dur="3s" begin="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0.3;1" dur="3s" begin="2s" repeatCount="indefinite"/>
+  <circle r="2.5" fill="#06b6d4" filter="url(#nodeGlow)">
+    <animateMotion path="M 0 50 L 1200 50" dur="4s" begin="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" dur="4s" begin="2s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Circuit branches -->
-  <path d="M200 40 L200 20 L220 20" fill="none" stroke="#7c3aed" stroke-width="1" opacity="0.5" stroke-dasharray="4 2">
-    <animate attributeName="stroke-dashoffset" values="0;12" dur="2s" repeatCount="indefinite"/>
-  </path>
-  <path d="M600 40 L600 60 L580 60" fill="none" stroke="#06b6d4" stroke-width="1" opacity="0.5" stroke-dasharray="4 2">
-    <animate attributeName="stroke-dashoffset" values="0;12" dur="2.5s" repeatCount="indefinite"/>
-  </path>
-  <path d="M1000 40 L1000 20 L1020 20" fill="none" stroke="#7c3aed" stroke-width="1" opacity="0.5" stroke-dasharray="4 2">
-    <animate attributeName="stroke-dashoffset" values="0;12" dur="2.2s" repeatCount="indefinite"/>
-  </path>
+  <!-- Data packets on branches -->
+  <circle r="1.5" fill="#10b981">
+    <animateMotion path="M 150 50 Q 150 30 200 20" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="1.5" fill="#f59e0b">
+    <animateMotion path="M 600 50 Q 600 70 550 80" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="1.5" fill="#ec4899">
+    <animateMotion path="M 1050 50 Q 1050 30 1100 20" dur="2s" repeatCount="indefinite"/>
+  </circle>
 
-  <!-- Small decorative squares -->
+  <!-- Top decorative squares -->
   <rect x="198" y="18" width="4" height="4" fill="#7c3aed" opacity="0.8">
     <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" repeatCount="indefinite"/>
   </rect>
-  <rect x="598" y="58" width="4" height="4" fill="#06b6d4" opacity="0.8">
-    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" begin="1s" repeatCount="indefinite"/>
+  <rect x="298" y="18" width="4" height="4" fill="#06b6d4" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" begin="0.6s" repeatCount="indefinite"/>
   </rect>
-  <rect x="998" y="18" width="4" height="4" fill="#7c3aed" opacity="0.8">
-    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" begin="2s" repeatCount="indefinite"/>
+  <rect x="648" y="18" width="4" height="4" fill="#10b981" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="798" y="18" width="4" height="4" fill="#f59e0b" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" begin="1.8s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="1098" y="18" width="4" height="4" fill="#ec4899" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" begin="2.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Bottom decorative squares -->
+  <rect x="98" y="78" width="4" height="4" fill="#06b6d4" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" begin="0.3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="398" y="78" width="4" height="4" fill="#7c3aed" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" begin="0.9s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="548" y="78" width="4" height="4" fill="#10b981" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="898" y="78" width="4" height="4" fill="#f59e0b" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" begin="2.1s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="998" y="78" width="4" height="4" fill="#ec4899" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" begin="2.7s" repeatCount="indefinite"/>
   </rect>
 </svg>
