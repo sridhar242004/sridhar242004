@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="1200" height="80">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#030210" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#7c3aed" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#06b6d4" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#7c3aed" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#030210" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="divGlow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Main line -->
+  <line x1="0" y1="40" x2="1200" y2="40" stroke="url(#divGrad)" stroke-width="2" filter="url(#divGlow)"/>
+
+  <!-- Animated pulse nodes -->
+  <circle cx="200" cy="40" r="3" fill="#7c3aed" filter="url(#divGlow)">
+    <animate attributeName="r" values="3;6;3" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="40" r="3" fill="#06b6d4" filter="url(#divGlow)">
+    <animate attributeName="r" values="3;6;3" dur="3s" begin="1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.3;1" dur="3s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1000" cy="40" r="3" fill="#7c3aed" filter="url(#divGlow)">
+    <animate attributeName="r" values="3;6;3" dur="3s" begin="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.3;1" dur="3s" begin="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Circuit branches -->
+  <path d="M200 40 L200 20 L220 20" fill="none" stroke="#7c3aed" stroke-width="1" opacity="0.5" stroke-dasharray="4 2">
+    <animate attributeName="stroke-dashoffset" values="0;12" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M600 40 L600 60 L580 60" fill="none" stroke="#06b6d4" stroke-width="1" opacity="0.5" stroke-dasharray="4 2">
+    <animate attributeName="stroke-dashoffset" values="0;12" dur="2.5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M1000 40 L1000 20 L1020 20" fill="none" stroke="#7c3aed" stroke-width="1" opacity="0.5" stroke-dasharray="4 2">
+    <animate attributeName="stroke-dashoffset" values="0;12" dur="2.2s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Small decorative squares -->
+  <rect x="198" y="18" width="4" height="4" fill="#7c3aed" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="598" y="58" width="4" height="4" fill="#06b6d4" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" begin="1s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="998" y="18" width="4" height="4" fill="#7c3aed" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" begin="2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
