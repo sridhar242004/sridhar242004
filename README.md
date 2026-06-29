@@ -7,7 +7,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,20:08083d,50:1a0a3e,80:3d1a6e,100:7c3aed&height=250&section=header&text=SRIDHAR%20S&fontSize=90&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20WebGL%20Craftsman%20%E2%80%A2%20Creative%20Technologist&descSize=17&descColor=c4b5fd&descAlign=50&descAlignY=64&animation=twinkling&stroke=7c3aed&strokeWidth=3"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&repeat=true&width=720&height=52&lines=⚡+Building+AI-First+Cinematic+Web+Experiences;🔮+Three.js+·+GSAP+·+Groq+LPU+·+Tailwind+CSS;📡+113+Repositories+·+Zero+Backend+·+Full+WebGL;🏆+IEEE+Author+·+AWS+Certified+·+IET+Member;🚀+Concept+to+FAANG-Grade+Product+in+One+File" />
+<img src="terminal-header.svg?font=JetBrains+Mono&weight=800&size=21&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&repeat=true&width=720&height=52&lines=⚡+Building+AI-First+Cinematic+Web+Experiences;🔮+Three.js+·+GSAP+·+Groq+LPU+·+Tailwind+CSS;📡+113+Repositories+·+Zero+Backend+·+Full+WebGL;🏆+IEEE+Author+·+AWS+Certified+·+IET+Member;🚀+Concept+to+FAANG-Grade+Product+in+One+File" />
 
 <br/>
 
