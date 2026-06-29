@@ -634,44 +634,6 @@ Created an AI sketch-to-art pipeline using OpenCV and MediaPipe for gesture reco
 
 <br/>
 
-<!-- ══════════════════════ GITHUB TROPHIES ══════════════════════ -->
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sridhar242004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="divider-circuit.svg" alt="Section Divider"/>
-</div>
-
-<br/>
-
-<!-- ══════════════════════ WAKATIME STATS ══════════════════════ -->
-
-## WakaTime Coding Activity
-
-*Setup needed: Join WakaTime (free) → install VSCode extension → add WAKATIME_API_KEY to repo secrets → replace YOUR_WAKATIME_USERNAME below*
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c4b5fd&icon_color=06b6d4&border_radius=12"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="divider-circuit.svg" alt="Section Divider"/>
-</div>
-
-<br/>
-
 <!-- ══════════════════════ 3D CONTRIBUTION CALENDAR ══════════════════════ -->
 
 ## 3D Contribution Calendar
