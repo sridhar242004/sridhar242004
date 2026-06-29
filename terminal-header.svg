@@ -1,0 +1,50 @@
+<svg viewBox="0 0 760 215" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal header for sridhar242004">
+  <style>
+    .term-bg { fill: #0a0a14; }
+    .panel { fill: #100f1d; stroke: #2a2540; stroke-width: 1; }
+    .titlebar-text { fill: #6f6b87; font: 12px ui-monospace, "SF Mono", "Cascadia Code", Consolas, monospace; }
+    .prompt { fill: #a78bfa; }
+    .bright { fill: #f2f0fb; }
+    .soft { fill: #b6b3c9; }
+    .cyan { fill: #2dd4da; }
+    .mono { font-family: ui-monospace, "SF Mono", "Cascadia Code", Consolas, monospace; }
+    .line { opacity: 0; animation: rise 0.5s ease-out forwards; }
+    .l1 { animation-delay: 0.1s; }
+    .l2 { animation-delay: 0.5s; }
+    .l3 { animation-delay: 1.0s; }
+    .l4 { animation-delay: 1.4s; }
+    .l5 { animation-delay: 2.0s; }
+    .l6 { animation-delay: 2.4s; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(6px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .line { animation: none; opacity: 1; transform: none; }
+      .cursor { animation: none; opacity: 1; }
+    }
+  </style>
+
+  <rect class="term-bg" x="0" y="0" width="760" height="215" />
+  <rect class="panel" x="20" y="10" width="720" height="195" rx="14" />
+  <line x1="20" y1="44" x2="740" y2="44" stroke="#2a2540" stroke-width="1" />
+
+  <circle cx="40" cy="27" r="5" fill="#ff5f56" />
+  <circle cx="58" cy="27" r="5" fill="#ffbd2e" />
+  <circle cx="76" cy="27" r="5" fill="#27c93f" />
+  <text x="380" y="31" text-anchor="middle" class="titlebar-text">sridhar@github : ~</text>
+
+  <g class="mono" font-size="13">
+    <text class="line l1" x="40" y="68"><tspan class="prompt">$</tspan> <tspan class="bright">whoami</tspan></text>
+    <text class="line l2 soft" x="40" y="90">sridhar.s — frontend engineer building AI-driven, single-file web experiences</text>
+    <text class="line l3" x="40" y="112"><tspan class="prompt">$</tspan> <tspan class="bright">ls builds/ --pinned</tspan></text>
+    <text class="line l4 cyan" x="40" y="134" font-size="11.5">quantum-interactivecharts · motion-master · matai · question-qenius · aidraw-to-image</text>
+    <text class="line l5" x="40" y="156"><tspan class="prompt">$</tspan> <tspan class="bright">status</tspan></text>
+    <text class="line l6 soft" x="40" y="178">building in public<tspan class="cursor bright">_</tspan></text>
+  </g>
+</svg>
